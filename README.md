@@ -1,5 +1,16 @@
 ### Hello World 👋
 
+Im a graphic designer, illustrator, and now I can confidently say I'm a developer. 
+Check out my developer work here on github and my art stuff on the instagrams...
+
+https://www.instagram.com/eddielopez_art/
+
+You can also connect with me on LinkedIn:
+
+https://www.linkedin.com/in/eduardo-lopez-081984138/
+
+Lets get together. Let's start a project. 
+
 <!--
 **Eddie98Lopez/Eddie98Lopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
